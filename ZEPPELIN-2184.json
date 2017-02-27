@@ -1,0 +1,8 @@
+{
+  "type" : "VISUALIZATION",
+  "name" : "ZEPPELIN-2184",
+  "description": "ZEPPELIN-2184",
+  "artifact" : "/Users/1ambda/github/1ambda/ZEPPELIN-2184",
+  "icon": "<div>Hello</div>",
+  "license": "MIT"
+}

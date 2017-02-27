@@ -1,0 +1,25 @@
+{
+  "name": "ZEPPELIN-2184",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ambda/ZEPPELIN-2184.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1ambda/ZEPPELIN-2184/issues"
+  },
+  "homepage": "https://github.com/1ambda/ZEPPELIN-2184#readme",
+  "dependencies": {
+    "lodash": "4.17.4"
+  },
+  "devDependencies": {
+  }
+}
